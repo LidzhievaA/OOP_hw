@@ -1,3 +1,5 @@
+package OOP_hw2;
+
 public class Snake extends Reptiles implements SwimSpeed{
     public Snake(String name){
         super(name);

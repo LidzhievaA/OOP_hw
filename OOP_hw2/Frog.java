@@ -1,3 +1,4 @@
+package OOP_hw2;
 public class Frog extends Reptiles implements SwimSpeed{
     public Frog(String name){
         super(name);
